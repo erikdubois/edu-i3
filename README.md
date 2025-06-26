@@ -1,10 +1,4 @@
-# Edu Chadwm 
-
-created on code of
-
-
-https://github.com/siduck/chadwm
-
+# Edu i3 
 
 
 # Websites
