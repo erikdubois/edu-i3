@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="kiro.jpg" alt="Kiro" width="220" />
+</p>
+
 # edu-i3
 
 Educational / tutorial repository for [i3wm](https://i3wm.org/), the popular tiling window manager. Part of the `~/EDU/` learning series — a working i3 config dropped on top of a fresh Arch / Kiro install.
