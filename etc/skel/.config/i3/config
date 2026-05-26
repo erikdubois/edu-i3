@@ -723,7 +723,7 @@ mode "$mode_gaps_outer" {
 
 exec_always --no-startup-id fastcompmgr -c
 
-bindsym control+mod1+o exec --no-startup-id ~/.config/i3/scripts/fastcompmgr-toggle.sh
+bindsym $mod+g exec --no-startup-id ~/.config/i3/scripts/fastcompmgr-toggle.sh
 
 ################# bar appearance                   
 
